@@ -1,2 +1,3 @@
 # app-recommender
-a tool that provides automatic suggestion on app based on user's download history
+An app recommender providing ‘app suggestions’ for users based on their download history.
+Cosine similarity s implemented for computing the similarities between the download history of different users.
